@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Person
 {
-    class Person
+    public class Person
     {
+        public double Age { get; set; }
     }
 }
