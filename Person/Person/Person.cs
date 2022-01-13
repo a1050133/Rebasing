@@ -9,5 +9,7 @@ namespace Person
     public class Person
     {
         public double Age { get; set; }
+
+        public double Name { get; set; }
     }
 }
