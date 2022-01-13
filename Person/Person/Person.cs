@@ -11,5 +11,7 @@ namespace Person
         public double Age { get; set; }
 
         public double Name { get; set; }
+
+        public int Height { get; set; }
     }
 }
