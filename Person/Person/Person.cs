@@ -8,7 +8,7 @@ namespace Person
 {
     public class Person
     {
-        public double Age { get; set; }
+        public double Age { get; set; } = 35;
 
         public double Name { get; set; }
 
